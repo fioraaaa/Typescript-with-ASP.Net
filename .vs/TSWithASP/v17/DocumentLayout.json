@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|c:\\users\\fiora\\source\\repos\\tswithasp\\tswithasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|solutionrelative:tswithasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|c:\\users\\fiora\\source\\repos\\tswithasp\\tswithasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|solutionrelative:tswithasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|c:\\users\\fiora\\source\\repos\\tswithasp\\tswithasp\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|solutionrelative:tswithasp\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|c:\\users\\fiora\\source\\repos\\tswithasp\\tswithasp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56FD343A-F5E9-463A-881A-D2D303A671A4}|TSWithASP\\TSWithASP.csproj|solutionrelative:tswithasp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TSWithASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TSWithASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T09:04:30.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TSWithASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TSWithASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T09:02:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\scripts\\app.ts",
+              "RelativeDocumentMoniker": "TSWithASP\\scripts\\app.ts",
+              "ToolTip": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\scripts\\app.ts",
+              "RelativeToolTip": "TSWithASP\\scripts\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-19T09:01:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\tsconfig.json",
+              "RelativeDocumentMoniker": "TSWithASP\\tsconfig.json",
+              "ToolTip": "C:\\Users\\fiora\\source\\repos\\TSWithASP\\TSWithASP\\tsconfig.json",
+              "RelativeToolTip": "TSWithASP\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T08:59:29.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
